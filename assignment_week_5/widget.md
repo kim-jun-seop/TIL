@@ -2,7 +2,7 @@
 
 실행화면<br>
 
-![결과](widget.png)
+![결과](../widget.png)
 
 ```dart
 import 'package:flutter/material.dart';
