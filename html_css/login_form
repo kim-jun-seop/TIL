@@ -1,8 +1,10 @@
+
+```html
 <!doctype html>
 <html>
 
 <head>
-    <meta chasrset="utf-8">
+    <meta charset="utf-8">
     <title>로그인 폼</title>
     <style>
         ul{
