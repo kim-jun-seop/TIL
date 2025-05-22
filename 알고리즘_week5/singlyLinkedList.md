@@ -1,6 +1,6 @@
 # 리스트 만들기
 
-```dart
+```java
 class SList:
     class Node:
         def __init__(self, item, link):  #Node의 생성자
